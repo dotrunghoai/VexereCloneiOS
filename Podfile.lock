@@ -1,0 +1,28 @@
+PODS:
+  - BCryptSwift (1.1)
+  - IQKeyboardManagerSwift (6.5.9)
+  - SkeletonView (1.29.2)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - BCryptSwift
+  - IQKeyboardManagerSwift
+  - SkeletonView
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - BCryptSwift
+    - IQKeyboardManagerSwift
+    - SkeletonView
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  BCryptSwift: f69992ea5685f6714260842c2770688043b89ab2
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: 3f722a656d898ce29c198aa7f703c58cbfc1d037
+
+COCOAPODS: 1.11.2
