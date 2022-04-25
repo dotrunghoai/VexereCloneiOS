@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624837984072-sl530nifiinh8kgoge04p8eu3na2194n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624837984072-sl530nifiinh8kgoge04p8eu3na2194n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrCtmgR0tn0o1kQcE5jwWIj6_J3pM23so</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624837984072</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>DXC.VexereClone</string>
+	<key>PROJECT_ID</key>
+	<string>vexereios-9cad5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vexereios-9cad5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624837984072:ios:458124a08ad20bcab03d7d</string>
+</dict>
+</plist>
