@@ -22,4 +22,4 @@ VeXeRe App was built to help users booking bus tickets easier
     + password: MatKhau123456
 
 ## License
-[MIT](https://vexere.com)
+[VeXeRe](https://vexere.com)
