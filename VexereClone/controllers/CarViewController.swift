@@ -50,10 +50,10 @@ class CarViewController: UIViewController {
                         car.numberOfSeat = data[K.Field.numberOfSeat] as! Int
                         self.cars.append(car)
                     }
-                    self.tbvCars.stopSkeletonAnimation()
-                    self.view.hideSkeleton(reloadDataAfter: true, transition: .crossDissolve(0.25))
-                    self.tbvCars.reloadData()
                 }
+                self.tbvCars.stopSkeletonAnimation()
+                self.tbvCars.hideSkeleton(reloadDataAfter: true, transition: .crossDissolve(0.25))
+                self.tbvCars.reloadData()
             }
         }
     }

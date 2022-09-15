@@ -51,10 +51,10 @@ class BrandViewController: UIViewController {
                         brand.hotline = data[K.Field.hotline] as! String
                         self.brands.append(brand)
                     }
-                    self.tbvBrands.stopSkeletonAnimation()
-                    self.view.hideSkeleton(reloadDataAfter: true, transition: .crossDissolve(0.25))
-                    self.tbvBrands.reloadData()
                 }
+                self.tbvBrands.stopSkeletonAnimation()
+                self.tbvBrands.hideSkeleton(reloadDataAfter: true, transition: .crossDissolve(0.25))
+                self.tbvBrands.reloadData()
             }
         }
     }
